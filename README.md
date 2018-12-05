@@ -1,7 +1,7 @@
 <p align = "center"><img src = "https://github.com/suzannewoods.png">
 </p>
 
-##About Me
+## About Me
 
 Welcome to my page!
 
